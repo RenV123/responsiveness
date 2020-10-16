@@ -21,10 +21,6 @@ p {
   .flex-container {
     flex-direction: column;
   }
-
-  #small, #medium {
-    display: none;
-  }
 }
 
 @media only screen and (min-width: 480px) and (max-width: 1023px) {
