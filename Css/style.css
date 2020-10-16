@@ -1,7 +1,14 @@
+/* Default Styling */
 h1,
 p {
   text-align: center;
   align-content: center;
+  font-family: 'Courier New', Courier, monospace;
+  color: #686d76;
+}
+
+div {
+  padding: 10px;
 }
 
 .flex-container {
